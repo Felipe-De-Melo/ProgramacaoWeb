@@ -1,3 +1,11 @@
+/*
+
+Curso de Engenharia de Software - UniEVANGÉLICA
+Disciplina de Programação Web
+Desenvolvedor: Felipe Fernandes - 2120954
+Data: 04/06/2024 
+*/
+
 // Importa os módulos necessários
 const express = require('express');
 const bodyParser = require('body-parser');
