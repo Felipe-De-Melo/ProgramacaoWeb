@@ -7,6 +7,7 @@ Data: 04/06/2024
 
 */
 
-# API de carros - Backend
+# Carros API - Frontend
 
-Este arquivo contém o backend para uma API de gerenciamento de carros, construída utilizando Node.js e Express.
+Este é o frontend utilizado para a construção de uma API para gerenciamento de carros, utilizando HTML, CSS e JavaScript.
+

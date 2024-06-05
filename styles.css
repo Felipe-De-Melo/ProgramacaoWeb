@@ -1,0 +1,31 @@
+/*
+Curso de Engenharia de Software - UniEVANGÉLICA
+Disciplina de Programação Web
+Desenvolvedor: Felipe Fernandes - 2120954
+Data: 04/06/2024 
+
+*/
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 30px;
+}
+
+h1 {
+    color: #999;
+}
+
+#car-list {
+    margin: 30px 0;
+}
+
+.car-item {
+    padding: 15px;
+    border: 1px solid #e43d3d;
+    margin: 5px 0;
+}
+
+form {
+    margin-top: 20px;
+}
